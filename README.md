@@ -47,20 +47,14 @@ Three-Layer Design
   
 - Performance analytics
 
------------------------------------------------------------------------       Integration Guide                ---------------------------------------------------------------------
-
-from xray_sdk.xray import xray  # 1. Import
-
-@xray.trace(name="Function", step_type="type")  # 2. Decorate
-def your_function(args):
-    xray.add_reasoning("What happened")  # 3. Explain (optional)
-    return result
+# Integration Guide
+<img width="474" height="137" alt="image" src="https://github.com/user-attachments/assets/4ad3c26e-f34c-49c7-b8df-f48097d5b7c2" />
 
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#Video explanation
 
 Video Walkthrough: [Link to be added]
 
--------------------------------------------------------------- Dashboard View ---------------------------------------------------------------------
+# Dashboard View 
 
-<img width="1776" height="833" alt="image" src="https://github.com/user-attachments/assets/33733914-267f-42c5-a569-88adfc589a8f" />
+<img width="1776"  alt="image" src="https://github.com/user-attachments/assets/33733914-267f-42c5-a569-88adfc589a8f" />
