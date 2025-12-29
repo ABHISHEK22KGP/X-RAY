@@ -9,7 +9,8 @@ Clone repository
 git clone https://github.com/ABHISHEK22KGP/X-RAY.git
 
 Install package
----- pip install -e .
+
+pip install -e .
 
 
 
