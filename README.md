@@ -15,7 +15,6 @@ pip install -e .
 
 
 
-Run the Demo
 
 # Run competitor selection demo
 python run_demo.py
