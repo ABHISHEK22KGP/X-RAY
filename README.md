@@ -57,5 +57,6 @@ Video Walkthrough: [Link to be added]
 
 # Dashboard View 
 
-<img width="1776"  height="auto" alt="image" src="https://github.com/user-attachments/assets/33733914-267f-42c5-a569-88adfc589a8f" />
+<img width="1912" height="7959" alt="screencapture-localhost-8000-2025-12-29-11_57_49" src="https://github.com/user-attachments/assets/abc09b4d-a8d7-4ac8-a661-fdfb09ee9951" />
+
 
