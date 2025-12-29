@@ -58,3 +58,10 @@ Video Walkthrough: [Link to be added]
 # Dashboard View 
 
 <img width="1776"  alt="image" src="https://github.com/user-attachments/assets/33733914-267f-42c5-a569-88adfc589a8f" />
+# Dashboard View
+
+<div style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/33733914-267f-42c5-a569-88adfc589a8f" 
+       alt="X-Ray Dashboard"
+       style="max-width: 100%; max-height: 800px; width: auto; height: auto; border: 1px solid #eee; border-radius: 8px;" />
+</div>
