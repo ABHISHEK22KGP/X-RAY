@@ -3,13 +3,12 @@ Project Structure !!!
 
 
 # 🚀 Quick Start
-Installation bash
+Installation 
 
-# Clone repository
+Clone repository
 git clone https://github.com/ABHISHEK22KGP/X-RAY.git
-cd X-RAY
 
-# Install package
+Install package
 pip install -e .
 
 
