@@ -55,7 +55,7 @@ Three-Layer Design
 
 Video Walkthrough: [Link to be added]
 
-# Dashboard View 
+# Dashboard View - Just double click to zoom
 
 <img width="1912" height="7959" alt="screencapture-localhost-8000-2025-12-29-11_57_49" src="https://github.com/user-attachments/assets/abc09b4d-a8d7-4ac8-a661-fdfb09ee9951" />
 
