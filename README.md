@@ -81,9 +81,6 @@ Dashboard looks basic can make it better
 
 Not tested with high traffic
 
-No backup system for traces
-
-No monitoring or alerts
 
 Only works with Python code
 
