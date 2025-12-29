@@ -30,8 +30,11 @@ python dashboard/server.py
 Three-Layer Design
 # Layer 1: Logic
 @xray.trace(name="Process Step", step_type="business")
+
 def your_function(data):
+
     xray.add_reasoning("Readable explanation of logic")
+    
     return processed_data
 
 # Layer 2: Debugging SDK (Automatic)
