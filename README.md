@@ -25,27 +25,27 @@ python dashboard/server.py
 ---->>>> Open browser: http://localhost:8000
 
 
--------------------------------------------------------------------------------------------             System Design               -------------------------------------------------------------------------------
+# System Design  
 
 Three-Layer Design
+
 # Layer 1: Logic
-@xray.trace(name="Process Step", step_type="business")
+<img width="403" height="89" alt="image" src="https://github.com/user-attachments/assets/22ee3610-c35f-4591-9375-d1b482a3c149" />
 
-def your_function(data):
-
-    xray.add_reasoning("Readable explanation of logic")
-    
-    return processed_data
 
 # Layer 2: Debugging SDK (Automatic)
-# - Captures timing, inputs, outputs
-# - Serializes to JSON
-# - Manages trace lifecycle
+- Captures timing, inputs, outputs
+  
+- Serializes to JSON
+  
+- Manages trace lifecycle
 
 # Layer 3: Visualization Dashboard
-# - Web interface for trace inspection
-# - Step-by-step execution flow
-# - Performance analytics
+- Web interface for trace inspection
+  
+- Step-by-step execution flow
+  
+- Performance analytics
 
 -----------------------------------------------------------------------       Integration Guide                ---------------------------------------------------------------------
 
